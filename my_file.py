@@ -1,5 +1,7 @@
 print('Hello world')
 
+print('Remove me!')
+
 print('Hi another feature')
 
 def my_funct :
